@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+table, td, tr{
+    font-size: 40px;
+    margin-top: 240px;
+    background-color: #e4fbff;
+}
+.colunacinza{
+    color: black;
+    background: #a1a0a0;
+    text-align: center;   
+}
+.colunaazul{
+    background-color: #d3f1f6;
+    color: rgb(0, 72, 255);
+}
+caption{
+    background: #467694;
+    color: white;
+    padding: 3px 3px 3px;
+}
+th{
+    color: black;
+    background: #93d0e4;
+    padding: 3px;
+}
